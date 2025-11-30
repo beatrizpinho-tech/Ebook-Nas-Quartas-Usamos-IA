@@ -38,7 +38,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Create a cover reminiscent of the Mean Girls Burn Book, with magazine cutout letters spelling 'Nas Quartas Usamos IA' in a disorganized way. Include scribbles, words like 'secret', a crumpled paper background effect, and shadowing|
+| capa | Create a cover reminiscent of the Mean Girls Burn Book, with magazine cutout letters spelling 'Nas Quartas Usamos IA' in a disorganized way. Include scribbles, words like 'secret', a crumpled paper background effect, and shadowing|
 
 ## ✨ Features
 
